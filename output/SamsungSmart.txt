@@ -6,6 +6,7 @@
 0.0.0.0 api-hub.samsungyosemite.com
 0.0.0.0 auth.samsungosp.com
 0.0.0.0 az43064.vo.msecnd.net
+0.0.0.0 cdn.samsungcloudsolution.com
 0.0.0.0 cdn.samsungcloudsolution.net
 0.0.0.0 d179kwmlpc4o47.cloudfront.ne
 0.0.0.0 d179kwmlpc4o47.cloudfront.net
@@ -28,6 +29,7 @@
 0.0.0.0 log.internetat.tv
 0.0.0.0 multiscreen.samsung.com
 0.0.0.0 notice.samsungcloudsolution.com
+0.0.0.0 noticecdn.samsungcloudsolution.com
 0.0.0.0 noticefile.samsungcloudsolution.com
 0.0.0.0 ns11.whois.co.kr
 0.0.0.0 oempprd.samsungcloudsolution.com
