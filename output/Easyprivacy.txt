@@ -14,7 +14,10 @@
 0.0.0.0 g4754024040.co
 0.0.0.0 g4952108375.co
 0.0.0.0 g5150192710.co
+0.0.0.0 g5348277045.co
+0.0.0.0 mors22.com
 0.0.0.0 nxakpj4ac8gkd53.info
+0.0.0.0 propeller-tracking.com
 0.0.0.0 sbgsodufuosmmvsdf.info
 0.0.0.0 z0uolej1qnxzub1.info
 0.0.0.0 0x1f4b0.com
@@ -1500,6 +1503,7 @@
 0.0.0.0 cmap.alibaba.com
 0.0.0.0 cmstrendslog.indiatimes.com
 0.0.0.0 cmstrendslog.timesnow.tv
+0.0.0.0 cnt.iceporn.com
 0.0.0.0 cnt.nicemix.com
 0.0.0.0 cnt.nuvid.com
 0.0.0.0 cnt.vivatube.com
@@ -1658,7 +1662,6 @@
 0.0.0.0 linkpuls.idg.no
 0.0.0.0 loc.rediff.com
 0.0.0.0 localads-statistics.maps.me
-0.0.0.0 location.bloomberg.com
 0.0.0.0 log.china.cn
 0.0.0.0 log.go.com
 0.0.0.0 log.hypebeast.com
@@ -2909,4 +2912,5 @@
 0.0.0.0 target.ukr.net
 0.0.0.0 log.ttbc-hcm.gov.vn
 0.0.0.0 logsbin.dantri.com.vn
+0.0.0.0 analytic20.detik.com
 0.0.0.0 ktracker.kumparan.com
