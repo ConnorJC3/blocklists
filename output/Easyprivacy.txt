@@ -383,6 +383,7 @@
 0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
 0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
+0.0.0.0 d34qb8suadcc4g.cloudfront.net
 0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
 0.0.0.0 d39yds8oe4n4jq.cloudfront.net
@@ -907,6 +908,7 @@
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.listhub.net
 0.0.0.0 tracking.livingsocial.com
+0.0.0.0 tracking.magnetmail.net
 0.0.0.0 tracking.menamarketplace.com
 0.0.0.0 tracking.monsido.com
 0.0.0.0 tracking.musixmatch.com
@@ -1976,6 +1978,7 @@
 0.0.0.0 stats.hfet.org
 0.0.0.0 stats.ibtimes.co.in
 0.0.0.0 stats.ibtimes.co.uk
+0.0.0.0 stats.nctm.org
 0.0.0.0 stats.nimiq-network.com
 0.0.0.0 stats.nymag.com
 0.0.0.0 stats.opoloo.de
@@ -2166,6 +2169,8 @@
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 zeus.slader.com
 0.0.0.0 zion.api.cnn.io
+0.0.0.0 as01.overbuff.com
+0.0.0.0 uuqz.overbuff.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 andoveradvertiser-gb.andoveradvertiser.co.uk
