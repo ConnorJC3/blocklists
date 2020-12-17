@@ -455,6 +455,7 @@
 0.0.0.0 events.air.tv
 0.0.0.0 events.apester.com
 0.0.0.0 events.attentivemobile.com
+0.0.0.0 events.audiate.me
 0.0.0.0 events.brightline.tv
 0.0.0.0 events.demoup.com
 0.0.0.0 events.izooto.com
@@ -1005,6 +1006,7 @@
 0.0.0.0 blacktri-a.akamaihd.net
 0.0.0.0 cgicounter.onlinehome.de
 0.0.0.0 cnt2.stroeerdp.de
+0.0.0.0 collector.rn.de
 0.0.0.0 com.econa.com
 0.0.0.0 counter.1i.kz
 0.0.0.0 counter.blogoscoop.net
@@ -1016,6 +1018,7 @@
 0.0.0.0 d.nativendo.de
 0.0.0.0 d.omsnative.de
 0.0.0.0 data.econa.com
+0.0.0.0 datalayer.p7s1.io
 0.0.0.0 et.twyn.com
 0.0.0.0 export.newscube.de
 0.0.0.0 geo.mtvnn.com
@@ -1120,6 +1123,7 @@
 0.0.0.0 da.netease.com
 0.0.0.0 dup.baidustatic.com
 0.0.0.0 epro.sogou.com
+0.0.0.0 fourier.taobao.com
 0.0.0.0 g.yccdn.com
 0.0.0.0 haostat.qihoo.com
 0.0.0.0 hyrankhit.meldingcloud.com
@@ -1681,6 +1685,7 @@
 0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.gaana.com
 0.0.0.0 logs.hotstar.com
+0.0.0.0 logs.naukri.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lslmetrics.djlmgdigital.com
 0.0.0.0 ma.redhat.com
@@ -2038,7 +2043,6 @@
 0.0.0.0 tck.bangbros.com
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 ted.metro.co.uk
-0.0.0.0 telegraph.api.hbo.com
 0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tempo.inc.com
