@@ -16,6 +16,7 @@
 0.0.0.0 g5150192710.co
 0.0.0.0 g5348277045.co
 0.0.0.0 g5546361380.co
+0.0.0.0 g5744445715.co
 0.0.0.0 mors22.com
 0.0.0.0 nxakpj4ac8gkd53.info
 0.0.0.0 propeller-tracking.com
@@ -334,6 +335,7 @@
 0.0.0.0 count.paycounter.com
 0.0.0.0 counter.bloke.com
 0.0.0.0 counter.cam-content.com
+0.0.0.0 counter.digits.com
 0.0.0.0 counter.hyipexplorer.com
 0.0.0.0 counter.maases.com
 0.0.0.0 counter.packa2.cz
@@ -411,6 +413,7 @@
 0.0.0.0 d2san7t27xb2pn.cloudfront.net
 0.0.0.0 d2tcg4i9q4js4a.cloudfront.net
 0.0.0.0 d2tgfbvjf3q6hn.cloudfront.net
+0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2xgf76oeu9pbh.cloudfront.net
 0.0.0.0 d303e3cdddb4ded4b6ff495a7b496ed5.s3.amazonaws.com
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
@@ -711,6 +714,7 @@
 0.0.0.0 r.msn.com
 0.0.0.0 ramp.purch.com
 0.0.0.0 rc.rlcdn.com
+0.0.0.0 refer.ccbill.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reporting.handll.net
 0.0.0.0 reporting.singlefeed.com
@@ -1379,6 +1383,7 @@
 0.0.0.0 tms-st.cdn.ngenix.net
 0.0.0.0 top.elec.ru
 0.0.0.0 track.recreativ.ru
+0.0.0.0 tracking.gpm-rtv.ru
 0.0.0.0 tracking.retailrocket.net
 0.0.0.0 upstats.yadro.ru
 0.0.0.0 stat.ringier.sk
@@ -1408,6 +1413,7 @@
 0.0.0.0 informers.sinoptik.ua
 0.0.0.0 analytics.yomedia.vn
 0.0.0.0 tracking.aita.gov.vn
+0.0.0.0 a3xo-eng.spankbang.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
@@ -2568,6 +2574,7 @@
 0.0.0.0 adtm.chip.de
 0.0.0.0 analytics.arz.at
 0.0.0.0 analytics.industriemagazin.net
+0.0.0.0 analytics.mbga.jp
 0.0.0.0 analytics.moviepilot.de
 0.0.0.0 analytics.proxer.me
 0.0.0.0 analytics.solidbau.at
