@@ -223,7 +223,6 @@
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyze.full-marke.com
 0.0.0.0 ape-tagit.timeinc.net
-0.0.0.0 api-location-prd.pelcro.com
 0.0.0.0 api.wipmania.com
 0.0.0.0 apple.www.letv.com
 0.0.0.0 argos.citruserve.com
@@ -2684,6 +2683,7 @@
 0.0.0.0 fsm.lapresse.ca
 0.0.0.0 g.itespresso.fr
 0.0.0.0 geo.6play.fr
+0.0.0.0 k.kolplay.com
 0.0.0.0 k.rueducommerce.fr
 0.0.0.0 kbn.korben.info
 0.0.0.0 lem.nouvelobs.com
