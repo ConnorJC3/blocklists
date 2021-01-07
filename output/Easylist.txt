@@ -1276,6 +1276,7 @@
 0.0.0.0 bcvutcks.com
 0.0.0.0 bcvxpffzmkqf.com
 0.0.0.0 bd1617dbbc28f.com
+0.0.0.0 bd202457b.com
 0.0.0.0 bdbdqkdkfb.xyz
 0.0.0.0 bdbdqqkbxb.xyz
 0.0.0.0 bdhbtrizb.com
@@ -1286,6 +1287,7 @@
 0.0.0.0 beacyoryjkbhqb.com
 0.0.0.0 beakedpissod.com
 0.0.0.0 beatpreservelost.com
+0.0.0.0 beavertron.com
 0.0.0.0 bebreloomr.com
 0.0.0.0 becauseared.site
 0.0.0.0 becaused.club
@@ -1332,7 +1334,10 @@
 0.0.0.0 bestcond1tions.com
 0.0.0.0 bestcontentfee.top
 0.0.0.0 bestcontenthost.com
+0.0.0.0 bestcontentjob.top
 0.0.0.0 bestcontentoperation.top
+0.0.0.0 bestcontentservice.top
+0.0.0.0 bestcontentuse.top
 0.0.0.0 bestcpmnetwork.com
 0.0.0.0 bestdisplaycontent.com
 0.0.0.0 bestdisplayformats.com
@@ -1340,8 +1345,10 @@
 0.0.0.0 bestialearnbuds.com
 0.0.0.0 bestmoneysites.com
 0.0.0.0 bestrevenuenetwork.com
+0.0.0.0 bestssn.com
 0.0.0.0 bestvideo2019.xyz
 0.0.0.0 betahit.click
+0.0.0.0 betemolgar.com
 0.0.0.0 betrayedregretdeadline.com
 0.0.0.0 betteradsystem.com
 0.0.0.0 bettercontentservice.top
@@ -1362,6 +1369,7 @@
 0.0.0.0 bggznyujioad.com
 0.0.0.0 bgkxbknajdn.com
 0.0.0.0 bglnzzsgigbto.com
+0.0.0.0 bgmtracker.com
 0.0.0.0 bgn2zqlce1eiya.icu
 0.0.0.0 bgqddlvq.com
 0.0.0.0 bgrndi.com
@@ -1395,6 +1403,7 @@
 0.0.0.0 bingooverdosegroom.com
 0.0.0.0 bingtonwr.top
 0.0.0.0 binsatbee.club
+0.0.0.0 biosda.com
 0.0.0.0 bipwrite.com
 0.0.0.0 biroads.com
 0.0.0.0 birung.club
@@ -1472,9 +1481,11 @@
 0.0.0.0 bobwjhcuavqklk.com
 0.0.0.0 bocpqkpmez.com
 0.0.0.0 bodyfairesra.club
+0.0.0.0 boffinsoft.com
 0.0.0.0 boffoadsfeeds.com
 0.0.0.0 bogrodius.com
 0.0.0.0 bogytoeelf.com
+0.0.0.0 boinkcash.com
 0.0.0.0 bokrelri.com
 0.0.0.0 bolahepelm.com
 0.0.0.0 bolrookr.com
@@ -1484,12 +1495,12 @@
 0.0.0.0 boodlewrite.com
 0.0.0.0 bookingfreeze.com
 0.0.0.0 boom-boom-vroom.com
+0.0.0.0 bootstrap-framework.org
 0.0.0.0 boplhfqz.com
 0.0.0.0 bopohsage.com
 0.0.0.0 bopvetgel.com
 0.0.0.0 boratestfishke.info
 0.0.0.0 bordeded.pro
-0.0.0.0 borderbrush.com
 0.0.0.0 bororango.com
 0.0.0.0 borotango.com
 0.0.0.0 bostoppa.club
@@ -1504,6 +1515,7 @@
 0.0.0.0 boyalebut.site
 0.0.0.0 boycottons.club
 0.0.0.0 boyughaye.com
+0.0.0.0 bposterss.net
 0.0.0.0 bpplltxabaayhm.com
 0.0.0.0 bppzqphtd.com
 0.0.0.0 bpsxhmtotf.com
@@ -1540,6 +1552,7 @@
 0.0.0.0 brotherhoodminims.com
 0.0.0.0 broughlystra.club
 0.0.0.0 browsobsolete.com
+0.0.0.0 brqvld0p.com
 0.0.0.0 brrqeprqsrvrt.com
 0.0.0.0 brtsumthree.com
 0.0.0.0 bruvwmrxudd.com
@@ -1564,6 +1577,7 @@
 0.0.0.0 buglethemfouls.casa
 0.0.0.0 buhatfjrk9dje10eme.com
 0.0.0.0 buildhoodpip.club
+0.0.0.0 buipovexhav.com
 0.0.0.0 bulbsanctify.com
 0.0.0.0 bullads.net
 0.0.0.0 bulldogdemocracy.com
@@ -1572,6 +1586,7 @@
 0.0.0.0 bulletprofitads.com
 0.0.0.0 bullionyield.com
 0.0.0.0 bulovuni.pro
+0.0.0.0 bumblecash.com
 0.0.0.0 bungalowfollowbestowed.com
 0.0.0.0 bunlxlhmsoizsa.com
 0.0.0.0 bunnymediaserver.com
@@ -1610,6 +1625,7 @@
 0.0.0.0 bwuqqnxubseq.com
 0.0.0.0 bxaddbia.com
 0.0.0.0 bxczchdxynw.com
+0.0.0.0 bxgjpocfz1g1jiwb.pro
 0.0.0.0 bxgnnzwagkxur.com
 0.0.0.0 bxhevqnz.com
 0.0.0.0 bxkpkskdox.com
@@ -1988,6 +2004,7 @@
 0.0.0.0 comparencelabl.site
 0.0.0.0 compensess.club
 0.0.0.0 compensions.pro
+0.0.0.0 compiletormentboats.com
 0.0.0.0 complicatedtelegraph.com
 0.0.0.0 complified.club
 0.0.0.0 composedwatchman.com
@@ -3924,6 +3941,7 @@
 0.0.0.0 growltoe.com
 0.0.0.0 grownuplieutenant.com
 0.0.0.0 grsdvgnr.com
+0.0.0.0 grtexch.com
 0.0.0.0 grtyj.com
 0.0.0.0 grubsoan.com
 0.0.0.0 grudgeslylonging.com
@@ -4093,6 +4111,7 @@
 0.0.0.0 heawzlvivkakly.com
 0.0.0.0 heckagny.com
 0.0.0.0 hedressive.info
+0.0.0.0 hedrvszms.com
 0.0.0.0 heedlessdessertchips.com
 0.0.0.0 heeevykjhujfy.com
 0.0.0.0 hehraybryciyls.com
@@ -4488,6 +4507,7 @@
 0.0.0.0 immscjnenl.com
 0.0.0.0 immunical.club
 0.0.0.0 imounsos.com
+0.0.0.0 implementtransmitted.com
 0.0.0.0 implicationdownloadpercy.com
 0.0.0.0 implishing.club
 0.0.0.0 impressionassassin.com
@@ -4715,6 +4735,7 @@
 0.0.0.0 jautouze.net
 0.0.0.0 jaxwrwvxfscq.com
 0.0.0.0 jaxxenpro.com
+0.0.0.0 jayhintcull.com
 0.0.0.0 jazdoxthxiv.com
 0.0.0.0 jazmonbetter.pro
 0.0.0.0 jb7hvcksstar.com
@@ -5377,6 +5398,7 @@
 0.0.0.0 letheyemo.site
 0.0.0.0 letsdoarbitrage.com
 0.0.0.0 letsinfospree.com
+0.0.0.0 leukemiatwinklesagacious.com
 0.0.0.0 leveloped.club
 0.0.0.0 levenileheshe.site
 0.0.0.0 leveryone.club
@@ -5814,6 +5836,7 @@
 0.0.0.0 mendprayer.com
 0.0.0.0 menlochsuk.club
 0.0.0.0 mentalbackie.site
+0.0.0.0 mentalsweatextent.com
 0.0.0.0 mentcompa.club
 0.0.0.0 mentpyjam.fun
 0.0.0.0 mentredu.top
@@ -5966,6 +5989,7 @@
 0.0.0.0 mob1ledev1ces.com
 0.0.0.0 mobalert.net
 0.0.0.0 mobbahjug.com
+0.0.0.0 mobcrummymow.com
 0.0.0.0 mobilehdmi.com
 0.0.0.0 mobileoffers-al-download.com
 0.0.0.0 mobreach.com
@@ -5996,6 +6020,7 @@
 0.0.0.0 moneyzenith.com
 0.0.0.0 mongdaughc.fun
 0.0.0.0 monotonoussurveytoxic.com
+0.0.0.0 montafp.top
 0.0.0.0 montkpl.top
 0.0.0.0 montwam.top
 0.0.0.0 mooaleoat.com
@@ -7901,7 +7926,6 @@
 0.0.0.0 rechampouinerai.website
 0.0.0.0 rechaptalisent.xyz
 0.0.0.0 recheriend.top
-0.0.0.0 recipetocook.recipes
 0.0.0.0 reckedmane.club
 0.0.0.0 recomine.club
 0.0.0.0 recommendedscenery.com
@@ -9780,6 +9804,7 @@
 0.0.0.0 varylioness.com
 0.0.0.0 vasgenerete.site
 0.0.0.0 vashoaft.net
+0.0.0.0 vasstycom.com
 0.0.0.0 vatname.info
 0.0.0.0 vatskaylittl.club
 0.0.0.0 vaultwrite.com
@@ -10058,6 +10083,7 @@
 0.0.0.0 warfarewithdigestion.com
 0.0.0.0 warmmyselfharness.com
 0.0.0.0 warsalsintrol.site
+0.0.0.0 warumbistdusoarm.space
 0.0.0.0 wastedcooperate.com
 0.0.0.0 wastesshimssat.world
 0.0.0.0 watchesbrow.com
@@ -11871,7 +11897,6 @@
 0.0.0.0 1lzz.com
 0.0.0.0 3questionsgetthegirl.com
 0.0.0.0 banners.cams.com
-0.0.0.0 bxgjpocfz1g1jiwb.pro
 0.0.0.0 c4tracking01.com
 0.0.0.0 cam4tracking.com
 0.0.0.0 checkmy.cam
