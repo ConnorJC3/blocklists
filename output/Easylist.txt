@@ -1385,6 +1385,7 @@
 0.0.0.0 bhplyiegippcw.com
 0.0.0.0 bhrebiicmcj.com
 0.0.0.0 bicacxo5go.com
+0.0.0.0 biceunivers.fun
 0.0.0.0 bid.glass
 0.0.0.0 bidiology.com
 0.0.0.0 bidverdrd.com
@@ -5897,6 +5898,7 @@
 0.0.0.0 midpopedge.com
 0.0.0.0 miegpokitjxm.com
 0.0.0.0 mierdydkqvpgno.com
+0.0.0.0 miesobserv.fun
 0.0.0.0 mifxolavi.com
 0.0.0.0 migatesbala.fun
 0.0.0.0 migayush2lam1pa1.com
@@ -8938,6 +8940,7 @@
 0.0.0.0 surgicalexpectingdecisive.com
 0.0.0.0 surquvsx.com
 0.0.0.0 surveyingaltitude.com
+0.0.0.0 susandsoc.top
 0.0.0.0 susistorsde.club
 0.0.0.0 suumlfkkiyhnv.com
 0.0.0.0 suxhap.com
@@ -9474,6 +9477,7 @@
 0.0.0.0 udmdtdjna.com
 0.0.0.0 udtekwuh.com
 0.0.0.0 udvysuucqgadg.com
+0.0.0.0 ueaggress.top
 0.0.0.0 uebadu.com
 0.0.0.0 uedombokwcy.com
 0.0.0.0 ueenfeiu.com
@@ -12073,6 +12077,7 @@
 0.0.0.0 d1v99qnc7usc0g.cloudfront.net
 0.0.0.0 d1wjz6mrey9f5v.cloudfront.net
 0.0.0.0 d1zgderxoe1a.cloudfront.net
+0.0.0.0 d20903hof2l33q.cloudfront.net
 0.0.0.0 d21j20wsoewvjq.cloudfront.net
 0.0.0.0 d22lo5bcpq2fif.cloudfront.net
 0.0.0.0 d23guct4biwna6.cloudfront.net
@@ -12277,6 +12282,7 @@
 0.0.0.0 d21f25e9uvddd7.cloudfront.net
 0.0.0.0 d21rudljp9n1rr.cloudfront.net
 0.0.0.0 d227cncaprzd7y.cloudfront.net
+0.0.0.0 d22xmn10vbouk4.cloudfront.net
 0.0.0.0 d22z575k8abudv.cloudfront.net
 0.0.0.0 d261u4g5nqprix.cloudfront.net
 0.0.0.0 d2cmh8xu3ncrj2.cloudfront.net
@@ -12444,6 +12450,7 @@
 0.0.0.0 collector.viki.io
 0.0.0.0 creatives.livejasmin.com
 0.0.0.0 delivery.smashing.services
+0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 engagesrvr.filefactory.com
 0.0.0.0 engine.fxempire.com
 0.0.0.0 engine.laweekly.com
