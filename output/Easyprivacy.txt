@@ -735,6 +735,7 @@
 0.0.0.0 rs.sinajs.cn
 0.0.0.0 rss.tmgrup.com.tr
 0.0.0.0 rt.flix360.com
+0.0.0.0 rtg-endpoint.global.ssl.fastly.net
 0.0.0.0 rtt.campanja.com
 0.0.0.0 rum.azion.com
 0.0.0.0 rum.azioncdn.net
@@ -863,6 +864,7 @@
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.newscgp.com
 0.0.0.0 tags.refinery89.com
+0.0.0.0 tagtracking.vibescm.com
 0.0.0.0 target.mixi.media
 0.0.0.0 targeting.perso.aws.arc.pub
 0.0.0.0 tc.airfrance.com
@@ -878,6 +880,7 @@
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 tm.vendemore.com
+0.0.0.0 to.getnitropack.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 tpx.tesseradigital.com
 0.0.0.0 tr.cloud-media.fr
@@ -969,6 +972,7 @@
 0.0.0.0 tracking.rightmessage.com
 0.0.0.0 tracking.scenepass.com
 0.0.0.0 tracking.searchmarketing.com
+0.0.0.0 tracking.sezzle.com
 0.0.0.0 tracking.sokrati.com
 0.0.0.0 tracking.synthasite.net
 0.0.0.0 tracking.target2sell.com
@@ -1050,6 +1054,7 @@
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 dfapvmql-q.global.ssl.fastly.net
 0.0.0.0 siteintercept.allegiancetech.com
+0.0.0.0 trusted-web-seal.cybertrust.ne.jp
 0.0.0.0 analytics.audionow.de
 0.0.0.0 analytics.gameforge.de
 0.0.0.0 beagle.prod.tda.link
@@ -1280,7 +1285,11 @@
 0.0.0.0 analyzer51.fc2.com
 0.0.0.0 asumi.shinobi.jp
 0.0.0.0 bidder.mediams.mb.softbank.jp
+0.0.0.0 bvr.ast.snva.jp
+0.0.0.0 bvr.snva.jp
+0.0.0.0 cookie.sync.usonar.jp
 0.0.0.0 counter2.blog.livedoor.com
+0.0.0.0 delivery.satr.jp
 0.0.0.0 ip2c.landscape.co.jp
 0.0.0.0 ipcheck.blogsys.jp
 0.0.0.0 kitchen.juicer.cc
@@ -1293,6 +1302,7 @@
 0.0.0.0 log.popin.cc
 0.0.0.0 log000.goo.ne.jp
 0.0.0.0 omt.shinobi.jp
+0.0.0.0 ranking.apis.sankei-digital.co.jp
 0.0.0.0 rcm.shinobi.jp
 0.0.0.0 rlog.popin.cc
 0.0.0.0 speee-ad.akamaized.net
@@ -1301,7 +1311,9 @@
 0.0.0.0 t.adlpo.com
 0.0.0.0 t.felmat.net
 0.0.0.0 t.seesaa.net
+0.0.0.0 tag.cribnotes.jp
 0.0.0.0 torimochi.line-apps.com
+0.0.0.0 tr.reco.combz.jp
 0.0.0.0 track.thebase.in
 0.0.0.0 tracker.520call.me
 0.0.0.0 webbc.fivecdm.com
@@ -1425,7 +1437,6 @@
 0.0.0.0 informers.sinoptik.ua
 0.0.0.0 analytics.yomedia.vn
 0.0.0.0 tracking.aita.gov.vn
-0.0.0.0 a3xo-eng.spankbang.com
 0.0.0.0 aa.avvo.com
 0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
@@ -1898,6 +1909,7 @@
 0.0.0.0 smetrics.att.com
 0.0.0.0 smetrics.delta.com
 0.0.0.0 somniture.theglobeandmail.com
+0.0.0.0 sourcepoint.dexerto.com
 0.0.0.0 sp-mms.weather.com
 0.0.0.0 sp.app.com
 0.0.0.0 sp.argusleader.com
@@ -2864,13 +2876,16 @@
 0.0.0.0 analyzer.fc2.com
 0.0.0.0 analyzer2.fc2.com
 0.0.0.0 astat.nikkei.com
+0.0.0.0 beacon.watch.impress.co.jp
 0.0.0.0 cgi.tbs.co.jp
 0.0.0.0 count.upc.rakuten.co.jp
+0.0.0.0 jen.jiji.com
 0.0.0.0 ln.ameba.jp
 0.0.0.0 log.suumo.jp
 0.0.0.0 logql.yahoo.co.jp
 0.0.0.0 measure.ameblo.jp
 0.0.0.0 mtc.nhk.or.jp
+0.0.0.0 pr.ameba.jp
 0.0.0.0 pvtag.yahoo.co.jp
 0.0.0.0 pw.gigazine.net
 0.0.0.0 rat.rakuten.co.jp
