@@ -222,6 +222,7 @@
 0.0.0.0 analytics.ziftsolutions.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analyze.full-marke.com
+0.0.0.0 aorta.clickagy.com
 0.0.0.0 ape-tagit.timeinc.net
 0.0.0.0 api.wipmania.com
 0.0.0.0 apple.www.letv.com
@@ -861,6 +862,7 @@
 0.0.0.0 tag.sonymusic.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tags.cdn.circlesix.co
+0.0.0.0 tags.clickagy.com
 0.0.0.0 tags.creativille.co.uk
 0.0.0.0 tags.master-perf-tools.com
 0.0.0.0 tags.newscgp.com
@@ -1062,6 +1064,7 @@
 0.0.0.0 blacktri-a.akamaihd.net
 0.0.0.0 cgicounter.onlinehome.de
 0.0.0.0 cnt2.stroeerdp.de
+0.0.0.0 collector.ozeex.com
 0.0.0.0 collector.rn.de
 0.0.0.0 com.econa.com
 0.0.0.0 counter.1i.kz
