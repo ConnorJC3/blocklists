@@ -999,6 +999,7 @@
 0.0.0.0 artandand.online
 0.0.0.0 artantash.club
 0.0.0.0 artapeare.site
+0.0.0.0 artgullyhep.com
 0.0.0.0 arthwhilearthu.info
 0.0.0.0 articismstre.fun
 0.0.0.0 artisticdisgraceevidently.com
@@ -1915,6 +1916,7 @@
 0.0.0.0 ckotfhgn.com
 0.0.0.0 claimbit.tk
 0.0.0.0 clairedikio.club
+0.0.0.0 clairvoyantvigourcelebrity.com
 0.0.0.0 clarizonsimp.top
 0.0.0.0 clasphs.xyz
 0.0.0.0 classisingew.club
@@ -3292,6 +3294,7 @@
 0.0.0.0 fasvgvzxsqxqhu.com
 0.0.0.0 fatbuydoc.com
 0.0.0.0 fatchilli.media
+0.0.0.0 fathuntsgall.com
 0.0.0.0 fatrjjcm.com
 0.0.0.0 fatrvclgpnb.com
 0.0.0.0 fatwalkinger.club
@@ -12474,6 +12477,7 @@
 0.0.0.0 ads.yahoo.com
 0.0.0.0 adserver.pandora.com
 0.0.0.0 adss.yahoo.com
+0.0.0.0 adz.wattpad.com
 0.0.0.0 as.inbox.com
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 click.livedoor.com

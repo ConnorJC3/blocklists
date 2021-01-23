@@ -2740,6 +2740,7 @@
 0.0.0.0 tracking.ha.rueducommerce.fr
 0.0.0.0 wbdds.allocine.fr
 0.0.0.0 wstats.gameblog.fr
+0.0.0.0 analytics.livehindustan.com
 0.0.0.0 edmi.nextinpact.com
 0.0.0.0 pam.nextinpact.com
 0.0.0.0 rel.nextinpact.com
